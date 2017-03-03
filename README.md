@@ -1,6 +1,8 @@
 # EzChat
 Chat Server and Client in C++ using sockets
 
+Made in collaboration with Arvin Sharma (github.com/freester1)
+
 HOW TO RUN
 
 - type 'make' inside EzChat folder
