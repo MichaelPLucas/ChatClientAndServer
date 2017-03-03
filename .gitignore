@@ -1,0 +1,6 @@
+*.d
+*.o
+client
+server
+html/
+latex/
